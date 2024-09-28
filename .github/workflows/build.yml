@@ -255,7 +255,7 @@ jobs:
           if [ -f build_version.txt ]; then
             current_version=$(cat build_version.txt)
           else
-            current_version=1
+            current_version=0
           fi
 
           new_version=$((current_version + 1))
