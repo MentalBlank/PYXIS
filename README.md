@@ -4,7 +4,7 @@
 
   # PYXIS All-in-One (AIO) Package for Nintendo Switch
 
-  An all-in-one custom firmware package for the Nintendo Switch, bringing together various essential tools and applications for a complete custom firmware experience. Sigpatch and prod.key files are **NOT** included
+  An all-in-one custom firmware package for the Nintendo Switch, bringing together various essential tools and applications for a complete custom firmware experience. Sigpatch and prod.key files are **NOT** included.
 
 </div>
 
@@ -65,7 +65,7 @@ This project utilizes and credits the following repositories:
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License v3. See the [LICENSE](LICENSE) file for details.
 
 ## Contributing
 
