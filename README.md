@@ -22,12 +22,13 @@
 - **Game Cheating:** Use cheats in single-player games.
 - **Dynamic Themes:** Apply custom themes and visual modifications to the Switch UI.
 - **In-Game Cheat Activation:** Activate cheats on-the-fly without needing to exit the game.
-- **Mod Management:** Organize and manage game mods for easier installation and uninstallation.
+- **Mod Management:** Download, organize, and manage game mods for easier installation and uninstallation.
 - **Background FTP Server:** Enable file transfers.
 - **Discover New Homebrew:** Explore the App Store for the latest homebrew applications.
 - **Support for Third-Party Controllers:** Use various third-party controllers for enhanced gameplay.
 - **Online LAN Play:** Set up remote local multiplayer over the Internet.
 - **Custom User Icons:** Change your user icons with custom images.
+- **Adjust Display Colors:** Change your screen colors to be more vibrant or change based on the time of day.
 - **Overlays:** Access and control some of these features using an easy shortcut (press L1 + D-Pad Down + Right Stick).
 
 ## Installation Guide
@@ -39,7 +40,7 @@
 ## Notes
 
 - A modded Nintendo Switch is required. For more information, consult this [FAQ & CFW Guide](https://switch.hacks.guide/).
-- You can download Amiibo .bin and .nfc files from the [Amiibo Database](https://github.com/AmiiboDB/Amiibo) repository and load them using the Emuiibo homebrew application.
+- You can download Amiibo .bin and .nfc files through AmiiboGenerator, or from the [Amiibo Database](https://github.com/AmiiboDB/Amiibo) repository, and load them using the Emuiibo homebrew application.
 
 ## Credits
 
