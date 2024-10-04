@@ -32,7 +32,7 @@
 
 ## Installation Guide
 
-1. [Download the latest release here](https://github.com/MentalBlank/SwitchAIO-AutoBuild/releases/latest).
+1. [Download the latest .zip release here](https://github.com/MentalBlank/PYXIS/releases/latest).
 2. Unzip the contents of the compressed folder to the root directory of your Switch SD card.
 3. In RCM mode, send the Hekate payload to your Switch and start the custom firmware (CFW).
 
