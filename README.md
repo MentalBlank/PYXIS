@@ -64,6 +64,7 @@ This project utilizes and credits the following repositories:
 | [masagrator/Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) | Status monitor overlay |
 | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) | Simple game mod manager |
 | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) | Alternative Controller support |
+| [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) | Overlay menu for the Switch |
 | [proferabg/EdiZon-Overlay](https://github.com/proferabg/EdiZon-Overlay) | Overlay for EdiZon cheat manager |
 | [retronx-team/sys-clk](https://github.com/retronx-team/sys-clk) | Overclocking/underclocking system module |
 | [Slluxx/IconGrabber](https://github.com/Slluxx/IconGrabber) | Game icon grabber |

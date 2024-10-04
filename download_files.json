@@ -53,6 +53,14 @@
         }
       ]
     },
+    "ppkantorski/Ultrahand-Overlay": {
+      "files": [
+        {
+          "file": "ovlmenu.ovl",
+          "target_paths": ["release/switch/.overlays"]
+        }
+      ]
+    },
     "WerWolv/ovl-sysmodules": {
       "files": [
         {
