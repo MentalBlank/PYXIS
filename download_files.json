@@ -45,14 +45,6 @@
         }
       ]
     },
-    "WerWolv/Tesla-Menu": {
-      "files": [
-        {
-          "file": "ovlmenu.zip",
-          "target_paths": ["release"]
-        }
-      ]
-    },
     "ppkantorski/Ultrahand-Overlay": {
       "files": [
         {

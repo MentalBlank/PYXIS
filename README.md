@@ -76,7 +76,6 @@ This project utilizes and credits the following repositories:
 | [WerWolv/Hekate-Toolbox](https://github.com/WerWolv/Hekate-Toolbox) | Toolkit for hekate bootloader |
 | [WerWolv/nx-ovlloader](https://github.com/WerWolv/nx-ovlloader) | Host process for loading overlays |
 | [WerWolv/ovl-sysmodules](https://github.com/WerWolv/ovl-sysmodules) | A sysmodule selector for Tesla |
-| [WerWolv/Tesla-Menu](https://github.com/WerWolv/Tesla-Menu) | Overlay menu for the Switch |
 | [XorTroll/emuiibo](https://github.com/XorTroll/emuiibo) | Emulates amiibo |
 | [XorTroll/Goldleaf](https://github.com/XorTroll/Goldleaf) | Title installer and manager |
 | [zdm65477730/NX-Activity-Log](https://github.com/zdm65477730/NX-Activity-Log) | Improved Activity Log |
