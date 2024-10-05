@@ -121,10 +121,12 @@ jobs:
             if [[ "$current_version" != "$latest_release" ]]; then
               RELEASE_VERSIONS=$(echo "$RELEASE_VERSIONS" | jq ".repos[\"$repo\"] = { \"version\": \"$latest_release\" }")
               if [[ "$current_version" == "0" ]]; then
-                echo "NEW_LOG=${NEW_LOG}- **$repo**: $latest_release\n" >> $GITHUB_ENV
+                NEW_LOG="${NEW_LOG}- **$repo**: $latest_release\n"
+                echo "NEW_LOG=${NEW_LOG}" >> $GITHUB_ENV
                 echo "New Repo: $repo (version $latest_release)"
               else
-                echo "CHANGES_LOG=${CHANGES_LOG}- **$repo**: ${current_version} to $latest_release\n" >> $GITHUB_ENV
+                CHANGES_LOG="${CHANGES_LOG}- **$repo**: ${current_version} to $latest_release\n"
+                echo "CHANGES_LOG=$CHANGES_LOG" >> $GITHUB_ENV
                 echo "Updates found for $repo: current version $current_version, latest version $latest_release"
               fi
               UPDATES_FOUND=1
