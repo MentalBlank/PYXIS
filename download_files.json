@@ -299,6 +299,14 @@
         }
       ]
     },
+    "MentalBlank/switch-sys-tweak": {
+      "files": [
+        {
+          "file": "systweak.zip",
+          "target_paths": ["release"]
+        }
+      ]
+    },
     "XorTroll/emuiibo": {
       "files": [
         {
