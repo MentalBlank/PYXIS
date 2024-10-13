@@ -67,6 +67,7 @@ This project utilizes and credits the following repositories:
 | [masagrator/Status-Monitor-Overlay](https://github.com/masagrator/Status-Monitor-Overlay) | Status monitor overlay |
 | [nadrino/SimpleModManager](https://github.com/nadrino/SimpleModManager) | Simple game mod manager |
 | [ndeadly/MissionControl](https://github.com/ndeadly/MissionControl) | Alternative Controller support |
+| [nedex/QuickNTP](https://github.com/nedex/QuickNTP) | Update clock from NTP server |
 | [PoloNX/SimpleModDownloader](https://github.com/PoloNX/SimpleModDownloader) | Simple game mod downloader |
 | [ppkantorski/Ultrahand-Overlay](https://github.com/ppkantorski/Ultrahand-Overlay) | Overlay menu for the Switch |
 | [proferabg/EdiZon-Overlay](https://github.com/proferabg/EdiZon-Overlay) | Overlay for EdiZon cheat manager |

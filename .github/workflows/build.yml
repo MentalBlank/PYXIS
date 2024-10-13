@@ -234,6 +234,7 @@ jobs:
           # Edit the system_settings.ini file
           sed -i -e 's/^; fatal_auto_reboot_interval = u64!0x0/fatal_auto_reboot_interval = u64!0x1/' \
                  -e 's/^; power_menu_reboot_function = str!payload/power_menu_reboot_function = str!payload/' \
+                 -e 's/^; add_defaults_to_dns_hosts = u8!0x1/add_defaults_to_dns_hosts = u8!0x1/' \
                  -e 's/^; dmnt_cheats_enabled_by_default = u8!0x1/dmnt_cheats_enabled_by_default = u8!0x0/' $CONFIG_DST/system_settings.ini
           
           # Edit the exosphere.ini file
